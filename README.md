@@ -3,3 +3,4 @@ Trying out the easy way to publish a website with github and github pages: Creat
 
 Progress:
 1. Website is online
+2. The website works with the minimal theme, yes!
