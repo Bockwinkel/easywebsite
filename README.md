@@ -1,7 +1,7 @@
 # Webseiten erstellen - Easy Mode
 ## Jekyll-Themes für GitHub Pages:
 Wenn man Webseiten über den Easy Mode anlegt, hat man die Möglichkeit zwischen verschiedenen Themes zu wählen. 
-Alle 12 Themes, die Github Pages unterstützt, finden sich hier: https://pages.github.com/themes/
+Alle 12 Themes, die Github Pages unterstützt, finden sich hier: https://pages.github.com/themes/  
 Sieben dieser 12 Themes sind hier aufgelistet: 
 
 * minima (Standard-Theme), [Beispielseite](https://jekyll.github.io/minima/) + [GitHub](https://github.com/jekyll/minima)
@@ -26,7 +26,8 @@ Ja, am einfachsten ist es, die Themes zu wechseln, wenn man die Webseite im Easy
 1. Dann geht man im Webseiten-Repository auf "Settings", 2. scrollt runter zu "GitHub Pages" und geht auf "change theme".  
 3. Es öffnet sich eine Seite, auf der man aus den oben genannten 12 Themes auswählen kann. 
 4. Nachdem man über "select theme" ein Theme ausgewählt hat, wird das alte Theme durch das neue ersetzt. 
-Nach einer Weile kann man die Webseite neu laden - bei mir dauert es immer ca. 3 min. 
+Nach einer Weile wird angepasste Inhalt auf der Webseite angezeigt - bei mir dauert es immer ca. 3 min.  
+Achtung, nicht vergessen, die Webseite neu zu laden.
 
 Ein ausführliche Beschreibung, in der diese 4 Schritte mit Screenshots gezeigt werden, ist auch unter der Dokumentation "Easy Mode" verfügbar.
 
@@ -34,4 +35,4 @@ Ein ausführliche Beschreibung, in der diese 4 Schritte mit Screenshots gezeigt 
 Gehe auf diese Webseite auf GitHub https://github.com/Bockwinkel/easywebsite/  
 Oben rechts auf der Seite gibt es den Button "fork". Forke meine Webseite, d.h. kopiere meine Webseite auf Dein Account und 
 ändere der Kopie das Theme und den Inhalt der Webseite.  
-Gerne kannst Du den Inhalt auf Deine Bedürfnisse anpassen und dann neu veröffentlichen. Einfach ausprobieren!
+Gerne kannst Du den Inhalt auf Deine Bedürfnisse anpassen und dann neu veröffentlichen. Einfach ausprobieren! Viel Spaß!
