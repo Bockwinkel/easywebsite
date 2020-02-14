@@ -4,21 +4,21 @@ Wenn man Webseiten über den Easy Mode anlegt, hat man die Möglichkeit zwischen
 Alle 12 Themes, die Github Pages unterstützt, finden sich hier: https://pages.github.com/themes/  
 Sieben dieser 12 Themes sind hier aufgelistet: 
 
-* minima (Standard-Theme), [Beispielseite](https://jekyll.github.io/minima/) + [GitHub](https://github.com/jekyll/minima)
+* minima (Standard-Theme), [Beispielseite](https://jekyll.github.io/minima/) + [GitHub](https://github.com/jekyll/minima)  
   Vorteil: Es gibt die Möglichkeit, verschiedene Reiter anzulegen.
-* minimal, [Beispielseite](https://pages-themes.github.io/minimal/) + [GitHub](https://github.com/pages-themes/minimal)
+* minimal, [Beispielseite](https://pages-themes.github.io/minimal/) + [GitHub](https://github.com/pages-themes/minimal)  
   Vorteil: Es gibt die Möglichkeit, einen Link direkt im Header anzulegen. Es gibt die Möglichkeit, Platzhalter zum Herunterladen von Dateien anzulegen. Es kann ein Logo eingefügt werden. Anstatt eines Headers gibt es links eine feststehende Spalte.
-* midnight, [Beispielseite](https://pages-themes.github.io/midnight/) + [GitHub](https://github.com/pages-themes/midnight)
+* midnight, [Beispielseite](https://pages-themes.github.io/midnight/) + [GitHub](https://github.com/pages-themes/midnight)  
   Vorteil: Link direkt im Header. Herunterladen von Dateien. Header ist feststehend.
-* tactile, [Beispielseite](https://pages-themes.github.io/tactile/) + [GitHub](https://github.com/pages-themes/tactile)
+* tactile, [Beispielseite](https://pages-themes.github.io/tactile/) + [GitHub](https://github.com/pages-themes/tactile)  
   Vorteil: Herunterladen von Dateien.
-* slate, [Beispielseite](https://pages-themes.github.io/slate/) + [GitHub](https://github.com/pages-themes/slate)
+* slate, [Beispielseite](https://pages-themes.github.io/slate/) + [GitHub](https://github.com/pages-themes/slate)  
   Vorteil: Link direkt im Header. Herunterladen von Dateien. 
-* modernist, [Beispielseite](https://pages-themes.github.io/modernist/) + [GitHub](https://github.com/pages-themes/modernist)
+* modernist, [Beispielseite](https://pages-themes.github.io/modernist/) + [GitHub](https://github.com/pages-themes/modernist)  
   Vorteil: Link direkt im Header. Herunterladen von Dateien.
-* cayman, [Beispielseite](https://pages-themes.github.io/cayman/) + [GitHub](https://github.com/pages-themes/cayman)
+* cayman, [Beispielseite](https://pages-themes.github.io/cayman/) + [GitHub](https://github.com/pages-themes/cayman)  
   Vorteil: Link direkt im Header. Herunterladen von Dateien.
-* hacker, [Beispielseite](https://pages-themes.github.io/hacker/) + [GitHub](https://github.com/pages-themes/hacker)
+* hacker, [Beispielseite](https://pages-themes.github.io/hacker/) + [GitHub](https://github.com/pages-themes/hacker) 
 
 ## Hintergrundinformation:
 Kann ich die Jekyll-Themes problemlos wechseln?  
@@ -26,7 +26,7 @@ Ja, am einfachsten ist es, die Themes zu wechseln, wenn man die Webseite im Easy
 1. Dann geht man im Webseiten-Repository auf "Settings", 2. scrollt runter zu "GitHub Pages" und geht auf "change theme".  
 3. Es öffnet sich eine Seite, auf der man aus den oben genannten 12 Themes auswählen kann. 
 4. Nachdem man über "select theme" ein Theme ausgewählt hat, wird das alte Theme durch das neue ersetzt. 
-Nach einer Weile wird angepasste Inhalt auf der Webseite angezeigt - bei mir dauert es immer ca. 3 min.  
+Nach einer Weile wird angepasste Inhalt auf der Webseite angezeigt - bei mir dauert es immer mehrere Minuten.  
 Achtung, nicht vergessen, die Webseite neu zu laden.
 
 Ein ausführliche Beschreibung, in der diese 4 Schritte mit Screenshots gezeigt werden, ist auch unter der Dokumentation "Easy Mode" verfügbar.
