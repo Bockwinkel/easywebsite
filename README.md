@@ -4,22 +4,22 @@ Wenn man Webseiten über den Easy Mode anlegt, hat man die Möglichkeit zwischen
 Alle 12 Themes, die Github Pages unterstützt, finden sich hier: https://pages.github.com/themes/
 Sieben dieser 12 Themes sind hier aufgelistet: 
 
-* minima (Standard-Theme), Beispielseite: https://jekyll.github.io/minima/ GitHub: https://github.com/jekyll/minima
+* minima (Standard-Theme), [Beispielseite](https://jekyll.github.io/minima/) + [GitHub](https://github.com/jekyll/minima)
   Vorteil: Es gibt die Möglichkeit, verschiedene Reiter anzulegen
-* minimal, Beispielseite: https://pages-themes.github.io/minimal/ GitHub: https://github.com/pages-themes/minimal
+* minimal, [Beispielseite](https://pages-themes.github.io/minimal/) + [GitHub](https://github.com/pages-themes/minimal)
   Vorteil: Link direkt im Header. Herunterladen von Dateien. Es kann ein Logo eingefügt werden. 
   Anstatt eines Headers gibt es links eine feststehende Spalte
-* midnight: Beispielseite: https://pages-themes.github.io/midnight/ GitHub: https://github.com/pages-themes/midnight
+* midnight: [Beispielseite](https://pages-themes.github.io/midnight/) + [GitHub](https://github.com/pages-themes/midnight)
   Vorteil: Link direkt im Header. Herunterladen von Dateien. Header ist feststehend.
-* tactile, Beispielseite: https://pages-themes.github.io/tactile/ GitHub: https://github.com/pages-themes/tactile
+* tactile, [Beispielseite](https://pages-themes.github.io/tactile/) + [GitHub](https://github.com/pages-themes/tactile)
   Vorteil: Es gibt die Möglichkeit, Platzhalter zum Herunterladen von Dateien anzulegen
-* slate, Beispielseite: https://pages-themes.github.io/slate/ GitHub: https://github.com/pages-themes/slate
+* slate, [Beispielseite](https://pages-themes.github.io/slate/) + [GitHub](https://github.com/pages-themes/slate)
   Vorteil: Es gibt die Möglichkeit, einen Link direkt im Header anzulegen. Herunterladen von Dateien. 
-* modernist, Beispielseite: https://pages-themes.github.io/modernist/ GitHub: https://github.com/pages-themes/modernist
+* modernist, [Beispielseite](https://pages-themes.github.io/modernist/) + [GitHub](https://github.com/pages-themes/modernist)
   Vorteil: Link direkt im Header. Herunterladen von Dateien.
-* cayman, Beispielseite: https://pages-themes.github.io/cayman/ GitHub: https://github.com/pages-themes/cayman
+* cayman, [Beispielseite](https://pages-themes.github.io/cayman/) + [GitHub](https://github.com/pages-themes/cayman)
   Vorteil: Link direkt im Header. Herunterladen von Dateien.
-* hacker, Beispielseite: https://pages-themes.github.io/hacker/ GitHub: https://github.com/pages-themes/hacker 
+* hacker, [Beispielseite](https://pages-themes.github.io/hacker/) + [GitHub](https://github.com/pages-themes/hacker)
 
 ## Hintergrundinformation:
 Kann ich die Jekyll-Themes problemlos wechseln?
